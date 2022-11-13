@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/static/js/main.de9b5a1e.js",
+    "main.js": "/static/js/main.37e74c65.js",
     "static/media/unicamp.png": "/static/media/unicamp.79b53ec8189b198d01b5.png",
     "index.html": "/index.html",
-    "main.de9b5a1e.js.map": "/static/js/main.de9b5a1e.js.map"
+    "main.37e74c65.js.map": "/static/js/main.37e74c65.js.map"
   },
   "entrypoints": [
-    "static/js/main.de9b5a1e.js"
+    "static/js/main.37e74c65.js"
   ]
 }
