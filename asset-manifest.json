@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/unicamp.online/static/js/main.1be98239.js",
-    "static/media/unicamp.png": "/unicamp.online/static/media/unicamp.79b53ec8189b198d01b5.png",
-    "index.html": "/unicamp.online/index.html",
-    "main.1be98239.js.map": "/unicamp.online/static/js/main.1be98239.js.map"
+    "main.js": "/static/js/main.de9b5a1e.js",
+    "static/media/unicamp.png": "/static/media/unicamp.79b53ec8189b198d01b5.png",
+    "index.html": "/index.html",
+    "main.de9b5a1e.js.map": "/static/js/main.de9b5a1e.js.map"
   },
   "entrypoints": [
-    "static/js/main.1be98239.js"
+    "static/js/main.de9b5a1e.js"
   ]
 }
